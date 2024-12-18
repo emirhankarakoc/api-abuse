@@ -1,5 +1,5 @@
 # Describing problem
-Client side contact form doesn't have a human verification. Only one checkbox is bad. You must defend your api.
+Client side contact form doesn't have a human verification. Only one checkbox is bad. You must defend your api. I wrote VERY simple java script code and killed your backend in 5 minutes. (click here)[https://www.youtube.com/watch?v=LaEseLMx4O8&t=858s&ab_channel=emirwildrift]
 
 # Recommended Solutions
 ## 1- Rate limiting
